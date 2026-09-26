@@ -55,6 +55,9 @@ Il team di sviluppo ha pianificato le seguenti attività per ottimizzare ulterio
 - [ ] **Rendering Icone Social:** Verifica dei pacchetti icone per la corretta visualizzazione dei loghi di TikTok e Telegram nel footer.
 - [ ] **Iniezione Dinamica dei Contenuti:** Collegamento dei componenti a un file JSON locale o a un Headless CMS per aggiornare gli articoli senza rigenerare la build del codice.
 
+
+* **Website:** https://ultimoranotizie.com
+
 ---
 
 ## 🤝 Contributi
